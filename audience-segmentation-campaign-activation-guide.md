@@ -17,19 +17,19 @@ The objective is to ensure that audience selection is accurate, compliant, measu
 
 This document covers:
 
-Business requirements gathering
+* Business requirements gathering
 
-Audience definition
+* Audience definition
 
-Segmentation criteria
+* Segmentation criteria
 
-Data validation
+* Data validation
 
-Campaign activation
+* Campaign activation
 
-Performance monitoring
+* Performance monitoring
 
-Common troubleshooting scenarios
+* Common troubleshooting scenarios
 
 2. Process Summary
 
@@ -37,11 +37,7 @@ Campaign Request
 
 ↓
 
-↓
-
 Requirements Gathering
-
-↓
 
 ↓
 
@@ -49,17 +45,11 @@ Audience Definition
 
 ↓
 
-↓
-
 Segmentation Build
 
 ↓
 
-↓
-
 Quality Assurance
-
-↓
 
 ↓
 
@@ -71,13 +61,7 @@ Performance Monitoring
 
 ↓
 
-↓
-
 Optimization
-
-↓
-
-Show more lines
 
 3. Roles & Responsibilities
 
@@ -279,6 +263,7 @@ Before activation verify:
 ☐ Audience volume reviewed
 ☐ Test sample approved
 ☐ Stakeholder approval received
+
 9. Campaign Activation
 
 ### Supported Channels
@@ -390,12 +375,14 @@ Validate audience counts across source systems.
 ✅ Validate audience counts before activation
 ✅ Capture business justification for segmentation decisions
 ✅ Review campaign performance for future optimization
+
 ### Avoid
 
 ❌ Unclear audience definitions
 ❌ Missing exclusion criteria
 ❌ Launching without QA
 ❌ Using undocumented segment logic
+
 13. Glossary
 
 ### CRM
