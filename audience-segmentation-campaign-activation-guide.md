@@ -31,7 +31,7 @@ This document covers:
 
 * Common troubleshooting scenarios
 
-2. Process Summary
+2. Process Summary  
 
 Campaign Request
 
