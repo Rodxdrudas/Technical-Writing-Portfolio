@@ -63,61 +63,33 @@ Customer Interaction
 
 ```text
 │
-```text
 ▼
 Data Sources
-
-```text
 │
-```text
 ▼
 CRM / Operational Systems
-
-```text
 │
-```text
 ▼
 #### Customer Data Platform (CDP)
-
-```text
 │
-```text
 ▼
 Audience Segmentation
-
-```text
 │
-```text
 ▼
 Activation Platforms
-
-```text
 │
-```text
 ▼
 Customer Communications
-
-```text
 │
-```text
 ▼
 Response & Engagement Data
-
-```text
 │
-```text
 ▼
 Analytics & Reporting
-
-```text
 │
-└──────────────┐
-
-```text
 ▼
 Audience Optimization
 
-Show more lines
 
 4. Core Systems
 
@@ -319,6 +291,7 @@ Review:
 ✅ Exclusions
 ✅ Compliance requirements
 ✅ Data freshness
+
 #### Stage 6 – Audience Activation
 
 Approved segments are distributed to activation channels.
