@@ -5,7 +5,7 @@ Document Owner: Rodolfo Esteves
 Audience: Marketing Operations, CRM Teams, Campaign Managers, Audience Specialists
 Purpose: To document the end-to-end process for creating audience segments and activating marketing campaigns using customer data.
 
-1. Overview
+**1. Overview**
 
 ### Purpose
 
@@ -31,7 +31,7 @@ This document covers:
 
 * Common troubleshooting scenarios
 
-2. Process Summary    
+**2. Process Summary**  
 
 Campaign Request
 
