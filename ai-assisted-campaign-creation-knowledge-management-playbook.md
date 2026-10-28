@@ -56,8 +56,6 @@ Input:
 
 Create a campaign brief for a coffee promotion targeting loyalty members.
 
-Show more lines
-
 Output:
 
 Campaign Objective
@@ -69,8 +67,6 @@ Key Messages
 Success Metrics
 
 Activation Channels
-
-Show more lines
 
 #### Audience Planning
 
@@ -89,8 +85,6 @@ Example
 Input:
 
 Suggest audience segments for premium coffee buyers.
-
-Show more lines
 
 Possible outputs:
 
@@ -212,8 +206,6 @@ For each segment provide:
 
 - Personalization opportunity
 
-Show more lines
-
 #### Executive Reporting Prompt
 
 Summarize campaign performance using the following metrics:
@@ -235,8 +227,6 @@ Provide:
 - Risks
 
 - Recommendations
-
-Show more lines
 
 5. AI-Assisted Campaign Workflow
 
