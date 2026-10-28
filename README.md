@@ -8,25 +8,23 @@ I'm developing my technical writing portfolio to demonstrate my ability to expla
 
 ## Writing Samples
 
-### 1. Software Setup Guide
-A step-by-step guide explaining how to prepare and configure a software workflow.
+### 1. CRM Data Flow & Audience Lifecycle Guide
 
-[Read the setup guide](software-setup-guide.md)
+An overview of how CRM and customer data platforms support data flows, identity resolution, audience management, and data governance.
 
-### 2. Troubleshooting Guide
-A practical guide to identifying and resolving common email campaign issues.
+[Read the CRM data flow guide](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/crm-data-flow-audience-lifecycle.md)
 
-[Read the troubleshooting guide](email-campaign-troubleshooting.md)
+### 2. Audience Segmentation & Campaign Activation Guide
 
-### 3. Quality Assurance Checklist
-A structured checklist for reviewing an email campaign before deployment.
+A practical guide covering audience definition, segmentation, quality assurance, campaign activation, and performance monitoring.
 
-[Read the QA checklist](email-campaign-qa-checklist.md)
+[Read the audience segmentation guide](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/audience-segmentation-campaign-activation.md)
 
-### 4. Process Documentation
-A sample of structured internal documentation designed to help teams follow consistent procedures.
+### 3. AI-Assisted Campaign Creation & Knowledge Management Playbook
 
-[Read the process guide](process-documentation-sample.md)
+Documentation exploring how AI can support campaign workflows, prompt design, knowledge management, and responsible AI use.
+
+[Read the AI-assisted campaigns playbook](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/ai-assisted-campaigns-knowledge-management.md)
 
 ## Tools and Skills
 
