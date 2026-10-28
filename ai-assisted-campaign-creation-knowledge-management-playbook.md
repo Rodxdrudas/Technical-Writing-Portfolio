@@ -243,72 +243,21 @@ Show more lines
 Campaign Request
 
 ↓
-
-```text
-│
-```text
-▼
 Campaign Brief Creation
-
 ↓
-
-```text
-│
-```text
-▼
 AI Campaign Planning
-
 ↓
-
-```text
-│
-```text
-▼
 Audience Development
-
 ↓
-
-```text
-│
-```text
-▼
 Content Drafting
-
 ↓
-
-```text
-│
-```text
-▼
 Human Review
-
 ↓
-
-```text
-│
-```text
-▼
 Campaign Activation
-
 ↓
-
-```text
-│
-```text
-▼
 Performance Analysis
-
 ↓
-
-```text
-│
-```text
-▼
 Knowledge Base Update
-
-↓
-
-Show more lines
 
 6. Knowledge Management Framework
 
@@ -481,7 +430,8 @@ Centralized prompt library.
 ❌ Publishing AI content without validation
 ❌ Storing undocumented prompts
 ❌ Using customer-identifiable information in prompts
-❌ Creating duplicate documentation repositories
+❌ Creating duplicate documentation repositories  
+
 12. Future State Vision
 
 Organizations increasingly require structured knowledge that can be consumed by:
