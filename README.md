@@ -12,19 +12,19 @@ I'm developing my technical writing portfolio to demonstrate my ability to expla
 
 An overview of how CRM and customer data platforms support data flows, identity resolution, audience management, and data governance.
 
-[Read the CRM data flow guide](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/crm-data-flow-audience-lifecycle.md)
+[Read the CRM data flow guide](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/crm-data-flow-audience-lifecycle-guide.md)
 
 ### 2. Audience Segmentation & Campaign Activation Guide
 
 A practical guide covering audience definition, segmentation, quality assurance, campaign activation, and performance monitoring.
 
-[Read the audience segmentation guide](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/audience-segmentation-campaign-activation.md)
+[Read the audience segmentation guide](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/audience-segmentation-campaign-activation-guide.md)
 
 ### 3. AI-Assisted Campaign Creation & Knowledge Management Playbook
 
 Documentation exploring how AI can support campaign workflows, prompt design, knowledge management, and responsible AI use.
 
-[Read the AI-assisted campaigns playbook](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/ai-assisted-campaigns-knowledge-management.md)
+[Read the AI-assisted campaigns playbook](https://github.com/Rodxdrudas/Technical-Writing-Portfolio/blob/main/ai-assisted-campaign-creation-knowledge-management-playbook.md)
 
 ## Tools and Skills
 
