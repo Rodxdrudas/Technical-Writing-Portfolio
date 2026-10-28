@@ -63,7 +63,7 @@ Performance Monitoring
 
 Optimization
 
-3. Roles & Responsibilities
+**3. Roles & Responsibilities**
 
 | Role | Responsibility |
 | --- | --- |
@@ -73,7 +73,7 @@ Optimization
 | Analytics Team | Measures campaign performance |
 | Marketing Operations | Activates campaigns across channels |
 
-4. Campaign Intake
+**4. Campaign Intake**
 
 ### Objective
 
@@ -108,7 +108,7 @@ Target Audience
 
 Customers who purchased school-related products within the last 12 months.
 
-5. Audience Definition
+**5. Audience Definition**
 
 ### Audience Design Principles
 
@@ -142,7 +142,7 @@ Eligible population
 
 Every audience should support a business objective.
 
-6. Segmentation Framework
+**6. Segmentation Framework**
 
 ### Demographic Segmentation
 
@@ -190,7 +190,7 @@ Examples:
 | Moderately Engaged | Opened 1-4 campaigns in 90 days |
 | Inactive | No engagement in 180 days |
 
-7. Audience Creation Procedure
+**7. Audience Creation Procedure**
 
 ### Step 1
 
@@ -252,7 +252,7 @@ Record:
 | Excluded Customers |  |
 | Final Audience |  |
 
-8. Quality Assurance Checklist
+**8. Quality Assurance Checklist**
 
 Before activation verify:
 
@@ -264,7 +264,7 @@ Before activation verify:
 ☐ Test sample approved
 ☐ Stakeholder approval received
 
-9. Campaign Activation
+**9. Campaign Activation**
 
 ### Supported Channels
 
@@ -304,7 +304,7 @@ Audience file quality reviewed
 
 Activation partner requirements met
 
-10. Performance Monitoring
+**10. Performance Monitoring**
 
 Review metrics after launch.
 
@@ -332,7 +332,7 @@ Conversion Rate
 
 Average Order Value
 
-11. Common Issues
+**11. Common Issues**
 
 ### Issue
 
@@ -366,7 +366,7 @@ Incomplete audience synchronization
 
 Validate audience counts across source systems.
 
-12. Best Practices
+**12. Best Practices**
 
 ### Do
 
@@ -383,7 +383,7 @@ Validate audience counts across source systems.
 ❌ Launching without QA
 ❌ Using undocumented segment logic
 
-13. Glossary
+**13. Glossary**
 
 ### CRM
 
