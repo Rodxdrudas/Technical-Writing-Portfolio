@@ -98,15 +98,15 @@ Back-to-School Promotion
 
 ### Objective
 
-Increase online purchases for seasonal products.
+* Increase online purchases for seasonal products.
 
-Primary KPI
+* Primary KPI
 
-Conversion Rate
+* Conversion Rate
 
-Target Audience
+* Target Audience
 
-Customers who purchased school-related products within the last 12 months.
+* Customers who purchased school-related products within the last 12 months.
 
 **5. Audience Definition**
 
@@ -132,11 +132,11 @@ The audience size should be quantifiable.
 
 Document:
 
-Total population
+* Total population
 
-Reachable population
+* Reachable population
 
-Eligible population
+* Eligible population
 
 #### Actionable
 
@@ -148,37 +148,37 @@ Every audience should support a business objective.
 
 Examples:
 
-Age group
+* Age group
 
-Household composition
+* Household composition
 
-Geographic location
+* Geographic location
 
-Customer lifecycle stage
+* Customer lifecycle stage
 
 ### Behavioral Segmentation
 
 Examples:
 
-Purchase history
+* Purchase history
 
-Product affinity
+* Product affinity
 
-Website activity
+* Website activity
 
-Campaign engagement
+* Campaign engagement
 
 ### Transactional Segmentation
 
 Examples:
 
-Last purchase date
+* Last purchase date
 
-Purchase frequency
+* Purchase frequency
 
-Average order value
+* Average order value
 
-Product categories purchased
+* Product categories purchased
 
 ### Engagement Segmentation
 
@@ -310,27 +310,27 @@ Review metrics after launch.
 
 ### Delivery Metrics
 
-Delivered
+* Delivered
 
-Bounced
+* Bounced
 
-Opt-Out Rate
+* Opt-Out Rate
 
 ### Engagement Metrics
 
-Open Rate
+* Open Rate
 
-Click Through Rate
+* Click Through Rate
 
-Engagement Rate
+* Engagement Rate
 
 ### Business Metrics
 
-Revenue
+* Revenue
 
-Conversion Rate
+* Conversion Rate
 
-Average Order Value
+* Average Order Value
 
 **11. Common Issues**
 
@@ -340,11 +340,11 @@ Audience Size Unexpectedly Low
 
 ### Possible Causes
 
-Restrictive filters
+* Restrictive filters
 
-Missing consent records
+* Missing consent records
 
-Data synchronization issues
+* Data synchronization issues
 
 ### Resolution
 
@@ -356,11 +356,11 @@ Campaign Reach Lower Than Expected
 
 ### Possible Causes
 
-High exclusion volume
+* High exclusion volume
 
-Outdated customer permissions
+* Outdated customer permissions
 
-Incomplete audience synchronization
+* Incomplete audience synchronization
 
 ### Resolution
 
