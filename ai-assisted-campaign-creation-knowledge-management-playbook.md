@@ -10,15 +10,15 @@ This playbook provides guidance for using Artificial Intelligence (AI) to suppor
 
 The objective is to:
 
-Improve campaign efficiency
+* Improve campaign efficiency
 
-Standardize AI usage
+* Standardize AI usage
 
-Reduce repetitive tasks
+* Reduce repetitive tasks
 
-Improve knowledge accessibility
+* Improve knowledge accessibility
 
-Support responsible AI adoption
+* Support responsible AI adoption
 
 1. Purpose
 
@@ -26,15 +26,15 @@ AI can assist marketing teams throughout the campaign lifecycle, from planning a
 
 This document defines:
 
-Recommended AI use cases
+* Recommended AI use cases
 
-Governance standards
+* Governance standards
 
-Prompting best practices
+* Prompting best practices
 
-Knowledge management processes
+* Knowledge management processes
 
-Quality assurance requirements
+* Quality assurance requirements
 
 2. AI Use Cases Across the Campaign Lifecycle
 
@@ -42,13 +42,13 @@ Quality assurance requirements
 
 AI can assist with:
 
-Campaign brief creation
+* Campaign brief creation
 
-Objective definition
+* Objective definition
 
-Campaign naming conventions
+* Campaign naming conventions
 
-Messaging frameworks
+* Messaging frameworks
 
 Example
 
@@ -58,27 +58,27 @@ Create a campaign brief for a coffee promotion targeting loyalty members.
 
 Output:
 
-Campaign Objective
+* Campaign Objective
 
-Target Audience
+* Target Audience
 
-Key Messages
+* Key Messages
 
-Success Metrics
+* Success Metrics
 
-Activation Channels
+* Activation Channels
 
 #### Audience Planning
 
 AI can support:
 
-Audience ideation
+* Audience ideation
 
-Segment recommendations
+* Segment recommendations
 
-Exclusion identification
+* Exclusion identification
 
-Personalization opportunities
+* Personalization opportunities
 
 Example
 
@@ -88,39 +88,39 @@ Suggest audience segments for premium coffee buyers.
 
 Possible outputs:
 
-High-frequency buyers
+* High-frequency buyers
 
-Recent purchasers
+* Recent purchasers
 
-Loyalty members
+* Loyalty members
 
-Re-engagement candidates
+* Re-engagement candidates
 
 #### Content Creation
 
 AI may assist with:
 
-Email drafts
+* Email drafts
 
-Push notifications
+* Push notifications
 
-Subject line generation
+* Subject line generation
 
-Campaign descriptions
+* Campaign descriptions
 
-Human review is always required.
-
+**Human review is always required.
+**
 #### Reporting Support
 
 AI can help summarize:
 
-Campaign performance
+* Campaign performance
 
-KPI trends
+* KPI trends
 
-Optimization opportunities
+* Optimization opportunities
 
-Executive summaries
+* Executive summaries
 
 3. Responsible AI Principles
 
@@ -134,25 +134,25 @@ AI recommendations should support decision-making but should not replace busines
 
 Always validate:
 
-Product information
+* Product information
 
-Campaign rules
+* Campaign rules
 
-Audience definitions
+* Audience definitions
 
-Regulatory requirements
+* Regulatory requirements
 
 #### Privacy Protection
 
 Never enter:
 
-Customer names
+* Customer names
 
-Personal email addresses
+* Personal email addresses
 
-Phone numbers
+* Phone numbers
 
-Sensitive personal information
+* Sensitive personal information
 
 into AI systems unless approved by company policy.
 
@@ -183,8 +183,6 @@ Include:
 - Recommended channels
 
 - KPI recommendations
-
-Show more lines
 
 #### Audience Planning Prompt
 
@@ -231,7 +229,6 @@ Provide:
 5. AI-Assisted Campaign Workflow
 
 Campaign Request
-
 ↓
 Campaign Brief Creation
 ↓
@@ -261,41 +258,41 @@ Capture marketing knowledge and make it reusable.
 
 Examples:
 
-Campaign workflows
+* Campaign workflows
 
-CRM procedures
+* CRM procedures
 
-Audience creation processes
+* Audience creation processes
 
 #### Playbooks
 
 Examples:
 
-Segmentation playbooks
+* Segmentation playbooks
 
-Channel playbooks
+* Channel playbooks
 
-Optimization playbooks
+* Optimization playbooks
 
 #### AI Prompt Libraries
 
 Maintain:
 
-Approved prompts
+* Approved prompts
 
-Prompt templates
+* Prompt templates
 
-Best-practice examples
+* Best-practice examples
 
 #### Lessons Learned Repository
 
 Capture:
 
-Campaign insights
+* Campaign insights
 
-Success stories
+* Success stories
 
-Common mistakes
+* Common mistakes
 
 Optimization recommendations
 
@@ -315,11 +312,11 @@ Store approved content in a centralized location.
 
 Examples:
 
-SharePoint
+* SharePoint
 
-Confluence
+* Confluence
 
-Knowledge Base Platforms
+* Knowledge Base Platforms
 
 #### Reuse
 
@@ -347,37 +344,37 @@ All AI-generated documentation should clearly identify:
 
 ### Purpose
 
-Inputs used
+* Inputs used
 
-Reviewer
+* Reviewer
 
-Approval date
+* Approval date
 
 9. KPI Framework
 
 #### Efficiency Metrics
 
-Time saved
+* Time saved
 
-Content creation speed
+* Content creation speed
 
-Campaign preparation time
+* Campaign preparation time
 
 #### Adoption Metrics
 
-Active users
+* Active users
 
-Prompt library usage
+* Prompt library usage
 
-Knowledge base visits
+* Knowledge base visits
 
 #### Quality Metrics
 
-Documentation accuracy
+* Documentation accuracy
 
-User satisfaction
+* User satisfaction
 
-Reuse rate
+* Reuse rate
 
 10. Common Risks
 
@@ -415,6 +412,7 @@ Centralized prompt library.
 ✅ Review AI outputs
 ✅ Update knowledge assets regularly
 ✅ Track adoption metrics
+
 #### Avoid
 
 ❌ Publishing AI content without validation
@@ -426,26 +424,26 @@ Centralized prompt library.
 
 Organizations increasingly require structured knowledge that can be consumed by:
 
-Employees
+* Employees
 
-Customers
+* Customers
 
-Knowledge bases
+* Knowledge bases
 
-AI assistants
+* AI assistants
 
-Search platforms
+* Search platforms
 
 The combination of:
 
-CRM knowledge
+* CRM knowledge
 
-Marketing technology expertise
+* Marketing technology expertise
 
-Process documentation
+* Process documentation
 
-AI enablement
+* AI enablement
 
-Knowledge management
+* Knowledge management
 
 creates a scalable foundation for operational excellence and digital transformation.
